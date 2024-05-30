@@ -5,7 +5,7 @@ This is a program which takes as input a CSV file listing people and the score t
 ## Installation
 Clone the project repository.
 ```bash
-git clone https://github.com/phumie/ninety-one.git
+git clone https://github.com/phumie/ninety-one-top-scorer-program.git
 ```
 
 ## Execution
